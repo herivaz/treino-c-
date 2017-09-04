@@ -1,0 +1,17 @@
+#include<stdlib.h>
+#include<stdio.h>
+#include <iostream>
+
+
+
+int main() {
+	
+		char ch;
+		printf("Introduza um caractere: ");
+		ch = getchar();
+		printf("o caractere introduzido foi %c \n ",ch);
+		
+}
+
+
+==================================x============================x===================================x=======
